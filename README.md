@@ -4,7 +4,9 @@
 
 - 🔥 Computer science student looking for first internship to help people with programming
 
--🔭 At each step seeking to delve deeper into programming. Still learning HTML5, CSS3 and JavaScript 
+- 🔭 At each step seeking to delve deeper into programming. Still learning HTML5, CSS3 and JavaScript 
+
+- 💬 "Be strong, and he will strengthen your heart, all you who hope in the Lord."
 
 <!--- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
 
