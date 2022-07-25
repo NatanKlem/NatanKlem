@@ -1,18 +1,25 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/NatanKlem/4fd87b3921be20eda97df0b1c24d63f1/raw/950112d9ca54c65d126bab3ff1a532c1de9b2a8c/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Natan Klem</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"></p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Computer science student looking for first internship to help people with programming
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+<!--- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat) 
 
 - ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - ⚡ Fun fact **Oneye 😜**
 
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
+- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) -->
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 <!--
 
@@ -46,22 +53,13 @@
 
 ## Contact
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+<a href="https://www.linkedin.com/in/natan-klem-8a072a206/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-NatanKlem-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://www.instagram.com/natan.klem/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-natan.klem-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
+
 </p>
 
 <!--
