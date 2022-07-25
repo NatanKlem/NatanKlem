@@ -4,9 +4,9 @@
 
 - 🔥 Computer science student looking for first internship to help people with programming
 
-<!--- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat) 
+-🔭 At each step seeking to delve deeper into programming. Still learning HTML5, CSS3 and JavaScript 
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+<!--- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
